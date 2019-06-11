@@ -1,4 +1,4 @@
-# These are test instructinos
+# These are test instructions
 
 ![](images/test-image.png)
 
