@@ -1,9 +1,5 @@
-# This is a test file
+# These are test instructinos
 
-## This is an edit
+![](images/test-image.png)
 
-## This is an edit #2
-
-## Edit #3
-
-## Edit #4
+Google image
