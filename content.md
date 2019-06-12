@@ -4,4 +4,6 @@
 
 Google image
 
-Test
+![](test-image.png)
+
+LODS logo
