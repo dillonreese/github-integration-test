@@ -1,6 +1,6 @@
 # These are test instructions
 
-![](/images/test-image.png)
+![](images/test-image.png)
 
 Google image - this is in an images folder
 
