@@ -2,10 +2,10 @@
 
 ![](/images/test-image.png)
 
-Google image
+Google image - this is in an images folder
 
 ![](test-image.png)
 
-LODS logo
+LODS logo - this image is in the same folder as this document
 
-Test edit - 6/13 @ 10:06am CST
+
