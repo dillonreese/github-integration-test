@@ -1,8 +1,6 @@
 # These are test instructions
 
-![](images/test-image.png)
-
-Google image - this is in an images folder
+Test 2:28pm
 
 ![](test-image.png)
 
