@@ -12,6 +12,8 @@ Test 9:18AM
 
 Test 9:43AM
 
-!video[text to display](large video file-2.mp4)
+!video[Video 1](large video file-2.mp4)
 
-!video[text to display](large video file.mp4)
+!video[Video 2](large video file.mp4)
+
+
