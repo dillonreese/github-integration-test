@@ -31,3 +31,5 @@ Test 2:07PM 8/4
 Test 2:12PM 8/4
 
 Test 2:17PM 8/4
+
+Github sync is working
