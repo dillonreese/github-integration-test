@@ -1,14 +1,6 @@
 # These are test instructions
 
-4:25PM
-
-9/23 4:23PM
-
-Test 2:28pm
-
-Test 2
-
-Test 2:30 
+10/27, 4:34PM
 
 ![](test-image.png)
 
