@@ -9,3 +9,5 @@
 @lab.Activity(Automated1)
 
 2:20pm
+
+This is some content. The time is 2:55PM.
